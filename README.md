@@ -1,4 +1,4 @@
-# untitled
+# Laboratorul nr. 2 PAM
 
 A new Flutter project.
 
